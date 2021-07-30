@@ -1,4 +1,4 @@
-# Robot-architecture-design
+# Versatile robot design
 
 Initially, the base part was designed under the body
 
